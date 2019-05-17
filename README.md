@@ -77,6 +77,9 @@ What is included?
   image container which does not depend on PCL nor OpenCV.
 * [ex-multi_camera_grabber](multi_camera_grabber/ex-multi_camera_grabber.cpp) demonstrate's how to accquire frames from multiple ifm 3D camera's,  
   see the example [documentation](doc/ex-multi_camera_grabber.md) for more details.
+* [ex-multi_camera_parallel_grabber](multi_camera_parallel_grabber/ex-ex-multi_camera_parallel_grabber.cpp) demonstrate's how to accquire frames 
+  concurrently (using multi threading) from multiple ifm 3D camera's,  see the example [documentation](multi_camera_parallel_grabber/README.md) 
+  for more details.
 
 LICENSE
 -------
